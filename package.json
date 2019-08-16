@@ -1,6 +1,6 @@
 {
   "name": "feuer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI to save your work in times of fire/emergency",
   "main": "src/index.js",
   "bin": {
