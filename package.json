@@ -1,0 +1,30 @@
+{
+  "name": "feuer",
+  "version": "1.0.0",
+  "description": "A CLI to save your work in times of fire/emergency",
+  "main": "src/index.js",
+  "bin": {
+    "@vilvaathibanpb/feuer": "bin/feuer",
+    "feuer": "bin/feuer"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "feuer",
+    "fire",
+    "emergency"
+  ],
+  "author": "Vilva Athiban P B",
+  "license": "MIT",
+  "dependencies": {
+    "arg": "^4.1.1",
+    "esm": "^3.2.25",
+    "execa": "^2.0.4",
+    "listr": "^0.14.3",
+    "pkg-install": "^1.0.0"
+  }
+}
