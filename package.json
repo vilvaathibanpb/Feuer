@@ -1,8 +1,12 @@
 {
   "name": "feuer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CLI to save your work in times of fire/emergency",
   "main": "src/index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/vilvaathibanpb/Feuer.git"
+  },
   "bin": {
     "@vilvaathibanpb/feuer": "bin/feuer",
     "feuer": "bin/feuer"
