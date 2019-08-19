@@ -1,6 +1,6 @@
 import arg from 'arg';
-import { feuer } from './main';
+import { fire } from './main';
 
 export async function cli(args) {
- await feuer();
+ await fire();
 }
