@@ -58,7 +58,7 @@ async function newBranch(targetDirectory) {
  return;
 }
 
-export async function feuer() {
+export async function fire() {
   const targetDirectory = process.cwd();
 
  const tasks = new Listr([
